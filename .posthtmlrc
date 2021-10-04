@@ -10,7 +10,7 @@
         "body": [
           {
             "type": "text",
-            "value": "University President Lee Bollinger’s March 2020 announcement of Columbia’s shift to remote learning was the first of numerous unprecedented policies enacted in the wake of the COVID-19 pandemic. <b>Now, after </b><b>18 months of distanced learning, </b><b>the Columbia community has found itself in another adjustment period thanks to the return to campus.</b>"
+            "value": "University President Lee Bollinger’s March 2020 announcement of Columbia’s shift to remote learning was the first of numerous unprecedented policies enacted in the wake of the COVID-19 pandemic. Now, after 18 months of distanced learning, the Columbia community has found itself in another adjustment period thanks to the return to campus."
           },
           {
             "type": "text",
@@ -26,7 +26,7 @@
           },
           {
             "type": "text",
-            "value": "Though 44.9 percent of respondents resided in New York City at some point during the pandemic, the differences were stark across class years: 72.2 percent of respondents from the class of <b>2022 lived in New York City at some point in the last 18 months, while only 17.5 percent of first-years had done the same.</b>"
+            "value": "Though 44.9 percent of respondents resided in New York City at some point during the pandemic, the differences were stark across class years: 72.2 percent of respondents from the class of 2022 lived in New York City at some point in the last 18 months, while only 17.5 percent of first-years had done the same."
           },
           {
             "type": "graphic",
@@ -36,7 +36,7 @@
           },
           {
             "type": "text",
-            "value": "<b>Overall, 79.5 percent of respondents did not live on campus in the last 18 months.</b> This includes nearly all of the first-years who did not reside in Columbia Housing and <b>approximately two-thirds of each of the remaining classes</b><b>.</b> For each class, there was a portion of students who lived in New York City at some point in the last 18-months, but never in Columbia Housing. While many of the students in this category are likely those whose primary place of residence is New York City, this percentage was particularly high for the class of 2022: 40.4 of seniors reported living in off-campus housing in the city at some point during the pandemic, while only 17.2% of first-year students reported the same."
+            "value": "Overall, 79.5 percent of respondents did not live on campus in the last 18 months. This includes nearly all of the first-years who did not reside in Columbia Housing and approximately two-thirds of each of the remaining classes. For each class, there was a portion of students who lived in New York City at some point in the last 18-months, but never in Columbia Housing. While many of the students in this category are likely those whose primary place of residence is New York City, this percentage was particularly high for the class of 2022: 40.4 of seniors reported living in off-campus housing in the city at some point during the pandemic, while only 17.2% of first-year students reported the same."
           },
           {
             "type": "text",
@@ -56,7 +56,7 @@
           },
           {
             "type": "text",
-            "value": "<b>Living situations generally did not have a significant effect on how connected students felt to Columbia.</b> The only exception was the small proportion of respondents who had <b>only lived away from home</b><b>—</b>the most reported rating for these students was a 2 on the 10-point scale."
+            "value": "Living situations generally did not have a significant effect on how connected students felt to Columbia. The only exception was the small proportion of respondents who had only lived away from home—the most reported rating for these students was a 2 on the 10-point scale."
           },
           {
             "type": "graphic",
@@ -66,7 +66,7 @@
           },
           {
             "type": "text",
-            "value": "The survey included space at the end for students to share any of their thoughts about the upcoming semester. Of the 208 written responses received, <b>15 percent explicitly mentioned wanting to return to in-person learning and activities for the sake of their social, emotional, and mental health</b>. In addition, only 52.2 percent of respondents felt very prepared to connect or reconnect with their college communities this semester. While some students shared anxieties about readjusting to campus, only 7.2 percent of all students who responded to the survey reported feeling extremely concerned about their social life this semester."
+            "value": "The survey included space at the end for students to share any of their thoughts about the upcoming semester. Of the 208 written responses received, 15 percent explicitly mentioned wanting to return to in-person learning and activities for the sake of their social, emotional, and mental health. In addition, only 52.2 percent of respondents felt very prepared to connect or reconnect with their college communities this semester. While some students shared anxieties about readjusting to campus, only 7.2 percent of all students who responded to the survey reported feeling extremely concerned about their social life this semester."
           },
           {
             "type": "graphic",
@@ -76,7 +76,7 @@
           },
           {
             "type": "text",
-            "value": "Meanwhile, 9.2 percent of respondents reported the highest possible level of concern regarding academics, while 22.7 percent of respondents did so when asked to rate the importance of career planning to them this semester. <b>In general, students are ready to be a part of the Columbia community and regain the social interaction afforded by an in-person semester.</b>"
+            "value": "Meanwhile, 9.2 percent of respondents reported the highest possible level of concern regarding academics, while 22.7 percent of respondents did so when asked to rate the importance of career planning to them this semester. In general, students are ready to be a part of the Columbia community and regain the social interaction afforded by an in-person semester."
           },
           {
             "type": "text",
@@ -99,7 +99,7 @@
           {
             "type": "graphic",
             "value": {
-              "asset": "graphic-name.html"
+              "asset": "covid-time-series.html"
             }
           },
           {
@@ -108,7 +108,7 @@
           },
           {
             "type": "text",
-            "value": "Consistent with their predictions about increasing COVID-19 cases in New York, 76 percent of respondents predicted that Columbia’s policies regarding COVID-19 would change at some point during the semester. Only 3.3 percent predicted the policies would not change, while 20.7 percent were unsure. Since these predictions, the number of students, faculty, and staff at all Columbia facilities who tested positive for COVID-19 <b>rose to 50</b><a href=\"https://covid19.columbia.edu/content/columbia-surveillance-testing-results\"><b> cases during the week of Sept. 13 from 25 cases during the week of Sept. 6. </b></a>As of 7 p.m. on Sept. 17, Columbia placed <a href=\"https://www.columbiaspectator.com/news/2021/09/17/columbia-implements-10-person-limit-on-indoor-gatherings-restricts-residence-hall-access-to-residents-only/\">visiting restrictions</a> on its residence halls due to rising case numbers among the student population. The University has not mandated regular testing this semester for all Columbia affiliates as it did in past semesters, so the current data may not accurately represent the number of cases on campus."
+            "value": "Consistent with their predictions about increasing COVID-19 cases in New York, 76 percent of respondents predicted that Columbia’s policies regarding COVID-19 would change at some point during the semester. Only 3.3 percent predicted the policies would not change, while 20.7 percent were unsure. Since these predictions, the number of students, faculty, and staff at all Columbia facilities who tested positive for COVID-19 rose to 50<a href=\"https://covid19.columbia.edu/content/columbia-surveillance-testing-results\"> cases during the week of Sept. 13 from 25 cases during the week of Sept. 6. </a>As of 7 p.m. on Sept. 17, Columbia placed <a href=\"https://www.columbiaspectator.com/news/2021/09/17/columbia-implements-10-person-limit-on-indoor-gatherings-restricts-residence-hall-access-to-residents-only/\">visiting restrictions</a> on its residence halls due to rising case numbers among the student population. The University has not mandated regular testing this semester for all Columbia affiliates as it did in past semesters, so the current data may not accurately represent the number of cases on campus."
           },
           {
             "type": "text",
@@ -156,11 +156,11 @@
           },
           {
             "type": "text",
-            "value": "This distribution is generally consistent between the four class years; however, <b>the class of 2022 had the highest percentage (50.2) of respondents who would continue wearing a mask, while the class of 2024 had the highest percentage (34.8) of respondents who would not. </b>"
+            "value": "This distribution is generally consistent between the four class years; however, the class of 2022 had the highest percentage (50.2) of respondents who would continue wearing a mask, while the class of 2024 had the highest percentage (34.8) of respondents who would not."
           },
           {
             "type": "text",
-            "value": "<b>Though the fall 2021 semester has physically reunited the Columbia community, students remain divided by their respective opinions on how to best navigate the recent return to campus. With cases on the rise and new dorm restrictions in place</b><b>, it is still uncertain whether the return to campus can be the return to normalcy that </b><b>many</b><b>we all</b><b> hope for. </b>"
+            "value": "Though the fall 2021 semester has physically reunited the Columbia community, students remain divided by their respective opinions on how to best navigate the recent return to campus. With cases on the rise and new dorm restrictions in place, it is still uncertain whether the return to campus can be the return to normalcy that many hope for."
           },
           {
             "type": "text",
@@ -172,13 +172,12 @@
           },
           {
             "type": "text",
-            "value": "For more information about our methodology and dataset, click here."
+            "value": "For more information about our methodology and dataset, <a href=\"https://docs.google.com/document/d/1r3px7I9QOfPmnTZCkgl0YeXghjpw2oRvlRHaRN6AYms/edit#\">click here</a>."
           }
         ],
-        "headline": "Sexy Headline",
-        "date": "TBD",
+        "headline": "Post-virtual learning in a COVID-19 world: Students’ thoughts on the return to campus",
+        "date": "October XXXX, 2021",
         "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Elizabeth-Commisso/\">Elizabeth Commisso</a>\nEdited by <a href=\"https://www.columbiaspectator.com/contributors/Jessica-Li/\">Jessica Li</a>",
-        "methodology": "Starting on Aug. 18, Spectator Graphics batch-sent the pre-semester survey to all emails scraped from the Columbia University Directory. This included email addresses of students from Columbia College, the School of General Studies, and the School of Engineering and Applied Science in the classes of 2022, 2023, and 2024. We also shared the survey through class group chats on GroupMe and class Facebook pages, and especially within Barnard and class of 2025 chats. On Aug. 22, we gained access to the emails of the class of 2025 and forwarded the survey to their inboxes. Within 24 hours, 415 out of 451 responses were first years. We stopped accepting responses on Aug. 23 at 11:59 p.m. EST.",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
