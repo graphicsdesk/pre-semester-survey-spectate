@@ -61,7 +61,7 @@
           {
             "type": "graphic",
             "value": {
-              "asset": "graphic-name.html"
+              "asset": "connectedness.html"
             }
           },
           {
@@ -71,7 +71,7 @@
           {
             "type": "graphic",
             "value": {
-              "asset": "graphic-name.html"
+              "asset": "presem_octopus.html"
             }
           },
           {
@@ -89,7 +89,7 @@
           {
             "type": "graphic",
             "value": {
-              "asset": "graphic-name.html"
+              "asset": "covid-concern.html"
             }
           },
           {
@@ -149,13 +149,9 @@
             "value": "While responses denouncing preventative COVID-19 protocols were vastly outnumbered by opposing viewpoints, the survey results also suggest that students may be reluctant to maintain current behaviors without the Columbia Community Health Compact."
           },
           {
-            "type": "text",
-            "value": "Only 43 percent of respondents would continue wearing a mask if Columbia’s mask mandate was revoked, 28 percent would not continue wearing a mask, and another 29 percent were unsure of what they would do."
-          },
-          {
             "type": "graphic",
             "value": {
-              "asset": "graphic-name.html"
+              "asset": "masking.html"
             }
           },
           {
