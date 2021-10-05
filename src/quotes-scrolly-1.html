@@ -14,7 +14,7 @@
         display: flex;
         justify-content: center;
         align-items:flex-start;
-        border: 2px dashed rgba(114, 186, 94, 0.35);
+        /*border: 2px dashed rgba(114, 186, 94, 0.35);*/
     }
 
     .item-1 {
@@ -41,14 +41,29 @@
     }
 
 
-    @media (max-width: 800px) {
+    @media (max-width: 600px) {
     /* CSS that should be displayed if width is equal to or less than 800px goes here */
         .container-1 {
             display: flex;
             justify-content: center;
             align-items: center;
-            border: 2px dashed rgba(114, 186, 94, 0.35);
+            /*border: 2px dashed rgba(114, 186, 94, 0.35);*/
             flex-direction: column;
+        }
+
+        .white-box-1 {
+            background-color: #ffffff;
+            padding: 10px;
+            filter:drop-shadow(0 .2rem .25rem rgba(0,0,0,.5));
+            font-family: Georgia, serif;
+            font-size: 16px;
+            line-height: 1.2;
+            margin-bottom: 20%;
+        }
+
+        .adjust-1 {
+            font-size: 16px;
+            line-height: 1.2;
         }
 
         .item-1 {
@@ -73,7 +88,7 @@
     <div class="item-1 shark-1-1">
       <p class = "white-box-1">
         Of those who submitted a written response, 32 percent explicitly discussed concerns about returning to campus amid the ongoing COVID-19 pandemic. Many responses expressed frustration at the idea that the requirement of returning to in-person classes was motivated more by financial reasons than concern for students&rsquo; well-being. Along a similar vein, 33 percent of respondents expressed high levels of anxiety or outrage at Columbia for not providing more options for students to continue their education without the increased risks of contracting the virus.
-        <br><br><i>These quotes have been edited for length and clarity.</i>
+        <br><br><i class='adjust-1'>These quotes have been edited for length and clarity.</i>
 
       </p>
     </div>
